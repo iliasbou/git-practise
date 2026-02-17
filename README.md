@@ -1,1 +1,3 @@
-hello from the mint laptop 
+Hello from the Laptop 
+linux mint xfce4
+
