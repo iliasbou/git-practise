@@ -1,0 +1,5 @@
+print('Hello to yall,and thank you for visiting ')
+print('Hello from git&github ')
+print('Test from laptop')
+print('Test 20/02/2026 ')
+print('Test 21/02/2026 21:06')
