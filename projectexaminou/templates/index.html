@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Flask GUI</title>
+</head>
+<body>
+    <h1>Interactive Flask GUI</h1>
+    <form action="/process" method="post">
+        <label for="user_input">Enter some text:</label>
+        <input type="text" id="user_input" name="user_input" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if result %}
+        <h2>Result:</h2>
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
